@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "967940242977",
+    "project_id": "fasal-omdb",
+    "storage_bucket": "fasal-omdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967940242977:android:2af9edafa55cac149aad60",
+        "android_client_info": {
+          "package_name": "com.example.omdb_movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967940242977-ck6g8bknic6ije0to79hr3opo84m3vr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omdb_movies_app",
+            "certificate_hash": "3b7626576ca79afc0abd4554400164ac357ac3d3"
+          }
+        },
+        {
+          "client_id": "967940242977-a31cgc52is8e61mu1rqsd1bkap5vvgq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_u1wdLkh9Tm-gOpGZ0JCNy-87OqHBQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967940242977-a31cgc52is8e61mu1rqsd1bkap5vvgq9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "967940242977-k24fhiiqpare40shhhggdug4btoc4e1f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.omdbMoviesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
